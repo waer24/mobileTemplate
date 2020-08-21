@@ -1,4 +1,4 @@
-# newbee
+mobileTemplate
 
 ## Project setup
 
